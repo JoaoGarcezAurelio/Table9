@@ -1,0 +1,32 @@
+Study_ID,First Author,Year,Country,CountryFlag,Outcome Domain,Classification,Total Tests,Statistically Significant Tests,Effect Size
+3,Clarke,2014,Ireland,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Ireland_%283-2%29.svg/640px-Flag_of_Ireland_%283-2%29.svg.png,Social Emotional Skills,Low,4,4,Beta range = [.008-.009]
+15,Kiviruusu,2016,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,Social Emotional Skills,Low,4,1,**** 0.42
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Social Emotional Skills,Low,2,0,
+10,Hirschstein,2007,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social Emotional Skills,Medium,1,1,Cohen's d = 0.30
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Social Emotional Skills,Medium,4,0,
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Social Emotional Skills,Medium,2,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Social Emotional Skills,Medium,4,0,
+10,Hirschstein,2007,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards others,Medium,5,0,
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards others,Medium,2,0,
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards School,Medium,5,0,
+15,Kiviruusu,2016,Finland,,Prosocial behaviour,Low,2,1,**** 0.33
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Prosocial behaviour,Medium,2,0,
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Prosocial behaviour,Medium,2,0,
+29,Humphrey,2018,England,,Prosocial behaviour,Medium,2,0,
+15,Kiviruusu,2016,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,Emotional distress,Low,2,0,
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Emotional distress,Low,2,0,
+8,Haataja,2014,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,Emotional distress,Medium,2,1,Beta = 0.17
+10,Hirschstein,2007,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Medium,3,0,
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Emotional distress,Medium,2,0,
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Emotional distress,Medium,2,0,
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Medium,1,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Emotional distress,Medium,4,0,
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Aggression,Low,1,0,
+8,Haataja,2014,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,Aggression,Medium,2,0,
+10,Hirschstein,2007,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Medium,4,0,
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Aggression,Medium,2,0,
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Aggression,Medium,1,0,
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Medium,1,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Aggression,Medium,2,0,
+11,Humphrey,2015,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,School functioning,Medium,8,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,School functioning,Medium,2,0,
